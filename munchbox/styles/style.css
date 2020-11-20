@@ -541,6 +541,10 @@ footer a:hover {
     .hero-container .left h1 {
         font-size: 30px;
     }
+    
+    .hero-container .left a img {
+        margin-top: 30px;
+    }
 
     a.btn {
         font-size: 16px;
